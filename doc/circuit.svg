@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+
+<svg
+   version="1.1"
+   width="629.89191"
+   height="308.3624"
+   id="svg511"
+   sodipodi:docname="circuit.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs515" />
+  <sodipodi:namedview
+     id="namedview513"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.6881074"
+     inkscape:cx="366.09045"
+     inkscape:cy="135.95106"
+     inkscape:window-width="2560"
+     inkscape:window-height="1353"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg511" />
+  <line
+     x1="416.30786"
+     y1="144.45584"
+     x2="436.30786"
+     y2="144.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line287" />
+  <line
+     x1="416.30786"
+     y1="124.45584"
+     x2="436.30786"
+     y2="124.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line289" />
+  <line
+     x1="416.30786"
+     y1="144.45584"
+     x2="416.30786"
+     y2="182.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line291" />
+  <line
+     x1="408.30786"
+     y1="182.45584"
+     x2="424.30786"
+     y2="182.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line293" />
+  <line
+     x1="411.30786"
+     y1="188.45584"
+     x2="421.30786"
+     y2="188.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line295" />
+  <line
+     x1="414.30786"
+     y1="194.45584"
+     x2="418.30786"
+     y2="194.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line297" />
+  <text
+     x="416.30786"
+     y="79.455841"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text299">+5V</text>
+  <line
+     x1="416.30786"
+     y1="84.455841"
+     x2="416.30786"
+     y2="124.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line301" />
+  <text
+     x="604.30792"
+     y="144.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text303">pin 4</text>
+  <line
+     x1="556.30792"
+     y1="144.45584"
+     x2="593.30792"
+     y2="144.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line305" />
+  <circle
+     cx="596.30792"
+     cy="144.45584"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse307"
+     r="3" />
+  <text
+     x="604.30792"
+     y="124.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text309">pin 2</text>
+  <line
+     x1="556.30792"
+     y1="124.45584"
+     x2="593.30792"
+     y2="124.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line311" />
+  <circle
+     cx="596.30792"
+     cy="124.45584"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse313"
+     r="3" />
+  <rect
+     x="446.30786"
+     y="114.45584"
+     width="100"
+     height="40"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="rect315" />
+  <line
+     x1="436.30786"
+     y1="124.45584"
+     x2="446.30786"
+     y2="124.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line317" />
+  <line
+     x1="436.30786"
+     y1="144.45584"
+     x2="446.30786"
+     y2="144.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line319" />
+  <line
+     x1="546.30792"
+     y1="124.45584"
+     x2="556.30792"
+     y2="124.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line321" />
+  <line
+     x1="546.30792"
+     y1="144.45584"
+     x2="556.30792"
+     y2="144.45584"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line323" />
+  <text
+     x="450.30786"
+     y="124.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text325">Vcc</text>
+  <text
+     x="450.30786"
+     y="144.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text327">V0</text>
+  <text
+     x="542.30792"
+     y="124.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text329">CH. A</text>
+  <text
+     x="542.30792"
+     y="144.45584"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text331">CH. B</text>
+  <text
+     x="276.0719"
+     y="298.74799"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="hanging"
+     id="text333">pin 3 (photosensor)</text>
+  <line
+     x1="276.0719"
+     y1="243.748"
+     x2="276.0719"
+     y2="290.74799"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line335" />
+  <circle
+     cx="276.0719"
+     cy="293.74799"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse337"
+     r="3" />
+  <line
+     x1="336.0719"
+     y1="243.748"
+     x2="346.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line339" />
+  <line
+     x1="346.0719"
+     y1="183.748"
+     x2="346.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line341" />
+  <line
+     x1="346.0719"
+     y1="93.748001"
+     x2="346.0719"
+     y2="133.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line343" />
+  <line
+     x1="186.07191"
+     y1="243.748"
+     x2="216.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line345" />
+  <line
+     x1="266.0719"
+     y1="243.748"
+     x2="286.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line347" />
+  <line
+     x1="286.0719"
+     y1="243.748"
+     x2="291.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line349" />
+  <line
+     x1="331.0719"
+     y1="243.748"
+     x2="336.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line351" />
+  <rect
+     x="291.0719"
+     y="235.748"
+     width="40"
+     height="16"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="rect353" />
+  <text
+     x="311.0719"
+     y="229.748"
+     style="font-size:11px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text355">6.9 kΩ</text>
+  <line
+     x1="216.0719"
+     y1="243.748"
+     x2="221.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line357" />
+  <line
+     x1="261.0719"
+     y1="243.748"
+     x2="266.0719"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line359" />
+  <rect
+     x="221.0719"
+     y="235.748"
+     width="40"
+     height="16"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="rect361" />
+  <text
+     x="241.0719"
+     y="229.748"
+     style="font-size:11px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text363">4.7 kΩ</text>
+  <line
+     x1="346.0719"
+     y1="133.748"
+     x2="346.0719"
+     y2="150.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line365" />
+  <line
+     x1="346.0719"
+     y1="176.748"
+     x2="346.0719"
+     y2="183.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line367" />
+  <line
+     x1="331.5719"
+     y1="155.748"
+     x2="331.5719"
+     y2="171.748"
+     style="stroke:#000000;stroke-width:3;stroke-linecap:square"
+     id="line369" />
+  <line
+     x1="346.0719"
+     y1="150.748"
+     x2="331.5719"
+     y2="159.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line371" />
+  <line
+     x1="331.5719"
+     y1="167.748"
+     x2="346.0719"
+     y2="176.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line373" />
+  <circle
+     cx="336.0719"
+     cy="163.748"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse375"
+     r="16" />
+  <path
+     d="m 316.07191,135.748 8,8 m 1,1 -2,-4 -2,2 4,2 -2,-4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path377" />
+  <path
+     d="m 310.07191,141.748 8,8 m 1,1 -2,-4 -2,2 4,2 -2,-4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path379" />
+  <path
+     d="m 339.07191,153.748 2,4 -7,1 4,-6 1,2"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path381" />
+  <line
+     x1="246.0719"
+     y1="53.748001"
+     x2="246.0719"
+     y2="93.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line383" />
+  <line
+     x1="246.0719"
+     y1="93.748001"
+     x2="276.0719"
+     y2="93.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line385" />
+  <line
+     x1="306.0719"
+     y1="93.748001"
+     x2="346.0719"
+     y2="93.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line387" />
+  <line
+     x1="346.0719"
+     y1="53.748001"
+     x2="346.0719"
+     y2="93.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line389" />
+  <line
+     x1="276.0719"
+     y1="93.748001"
+     x2="306.0719"
+     y2="93.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line391" />
+  <path
+     d="m 298.07191,93.748 m 0,-8 v 16 m 0,-8 -15,8 v -16 l 15,8"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path393" />
+  <line
+     x1="316.0719"
+     y1="53.748001"
+     x2="376.0719"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line395" />
+  <line
+     x1="376.0719"
+     y1="23.747999"
+     x2="376.0719"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line397" />
+  <text
+     x="376.0719"
+     y="8.7480001"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text399">+12V</text>
+  <line
+     x1="376.0719"
+     y1="13.748"
+     x2="376.0719"
+     y2="23.747999"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line401" />
+  <line
+     x1="156.07191"
+     y1="243.748"
+     x2="186.07191"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line403" />
+  <line
+     x1="186.07191"
+     y1="143.748"
+     x2="186.07191"
+     y2="243.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line405" />
+  <line
+     x1="186.07191"
+     y1="53.748001"
+     x2="186.07191"
+     y2="63.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line407" />
+  <line
+     x1="186.07191"
+     y1="53.748001"
+     x2="266.0719"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line409" />
+  <line
+     x1="116.07191"
+     y1="153.748"
+     x2="156.07191"
+     y2="153.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line411" />
+  <line
+     x1="116.07191"
+     y1="113.748"
+     x2="116.07191"
+     y2="153.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line413" />
+  <line
+     x1="116.07191"
+     y1="53.748001"
+     x2="116.07191"
+     y2="83.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line415" />
+  <line
+     x1="116.07191"
+     y1="53.748001"
+     x2="156.07191"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line417" />
+  <line
+     x1="156.07191"
+     y1="23.747999"
+     x2="156.07191"
+     y2="63.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line419" />
+  <text
+     x="156.07191"
+     y="8.7480001"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text421">+5V</text>
+  <line
+     x1="156.07191"
+     y1="13.748"
+     x2="156.07191"
+     y2="23.747999"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line423" />
+  <line
+     x1="156.07191"
+     y1="63.748001"
+     x2="156.07191"
+     y2="79.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line425" />
+  <line
+     x1="156.07191"
+     y1="127.748"
+     x2="156.07191"
+     y2="143.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line427" />
+  <path
+     d="m 156.07191,79.748 a 8,6 0 1 1 0,12 m 0,0 a 8,6 0 1 1 0,12 m 0,0 a 8,6 0 1 1 0,12 m 0,0 a 8,6 0 1 1 0,12"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path429" />
+  <line
+     x1="171.07191"
+     y1="79.748001"
+     x2="171.07191"
+     y2="127.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line431" />
+  <line
+     x1="186.07191"
+     y1="63.748001"
+     x2="186.07191"
+     y2="89.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line433" />
+  <line
+     x1="186.07191"
+     y1="117.748"
+     x2="186.07191"
+     y2="143.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line435" />
+  <circle
+     cx="186.07191"
+     cy="92.748001"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse437"
+     r="3" />
+  <circle
+     cx="186.07191"
+     cy="114.748"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse439"
+     r="3" />
+  <line
+     x1="194.07191"
+     y1="94.748001"
+     x2="188.07191"
+     y2="111.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line441" />
+  <text
+     x="73.067787"
+     y="188.69048"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text443">pin 8 (reward)</text>
+  <line
+     x1="39.071915"
+     y1="203.748"
+     x2="66.071907"
+     y2="203.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line445" />
+  <circle
+     cx="36.071915"
+     cy="203.748"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse447"
+     r="3" />
+  <line
+     x1="66.071907"
+     y1="203.748"
+     x2="71.071907"
+     y2="203.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line449" />
+  <line
+     x1="111.07191"
+     y1="203.748"
+     x2="116.07191"
+     y2="203.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line451" />
+  <rect
+     x="71.071907"
+     y="195.748"
+     width="40"
+     height="16"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="rect453" />
+  <text
+     x="91.071915"
+     y="189.748"
+     style="font-size:11px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text455">1 kΩ</text>
+  <line
+     x1="156.07191"
+     y1="143.748"
+     x2="156.07191"
+     y2="173.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line457" />
+  <line
+     x1="266.0719"
+     y1="53.748001"
+     x2="267.0719"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line459" />
+  <line
+     x1="315.0719"
+     y1="53.748001"
+     x2="316.0719"
+     y2="53.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line461" />
+  <path
+     d="m 267.07191,53.748 a 6,8 0 1 1 12,0 m 0,0 a 6,8 0 1 1 12,0 m 0,0 a 6,8 0 1 1 12,0 m 0,0 a 6,8 0 1 1 12,0"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path463" />
+  <text
+     x="291.0719"
+     y="39.748001"
+     style="font-size:11px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text465">pinch valve (Bio-Chem)</text>
+  <line
+     x1="156.07191"
+     y1="223.748"
+     x2="156.07191"
+     y2="291.74799"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line467" />
+  <line
+     x1="148.07191"
+     y1="291.74799"
+     x2="164.07191"
+     y2="291.74799"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line469" />
+  <line
+     x1="151.07191"
+     y1="297.74799"
+     x2="161.07191"
+     y2="297.74799"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line471" />
+  <line
+     x1="154.07191"
+     y1="303.74799"
+     x2="158.07191"
+     y2="303.74799"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line473" />
+  <line
+     x1="156.07191"
+     y1="173.748"
+     x2="156.07191"
+     y2="190.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line475" />
+  <line
+     x1="156.07191"
+     y1="216.748"
+     x2="156.07191"
+     y2="223.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line477" />
+  <line
+     x1="116.07191"
+     y1="203.748"
+     x2="142.07191"
+     y2="203.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line479" />
+  <line
+     x1="141.57191"
+     y1="195.748"
+     x2="141.57191"
+     y2="211.748"
+     style="stroke:#000000;stroke-width:3;stroke-linecap:square"
+     id="line481" />
+  <line
+     x1="156.07191"
+     y1="190.748"
+     x2="141.57191"
+     y2="199.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line483" />
+  <line
+     x1="141.57191"
+     y1="207.748"
+     x2="156.07191"
+     y2="216.748"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line485" />
+  <circle
+     cx="146.07191"
+     cy="203.748"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse487"
+     r="16" />
+  <path
+     d="m 148.07191,210.748 4,-2 1,7 -6,-4 2,-1"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path489" />
+  <line
+     x1="116.07191"
+     y1="113.748"
+     x2="116.07191"
+     y2="83.748001"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line491" />
+  <path
+     d="m 116.07191,91.748 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path493" />
+  <circle
+     cx="276.0719"
+     cy="243.748"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse495"
+     r="2" />
+  <circle
+     cx="346.0719"
+     cy="93.748001"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse497"
+     r="2" />
+  <circle
+     cx="186.07191"
+     cy="243.748"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse499"
+     r="2" />
+  <circle
+     cx="246.0719"
+     cy="53.748001"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse501"
+     r="2" />
+  <circle
+     cx="346.0719"
+     cy="53.748001"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse503"
+     r="2" />
+  <circle
+     cx="156.07191"
+     cy="243.748"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse505"
+     r="2" />
+  <circle
+     cx="156.07191"
+     cy="153.748"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse507"
+     r="2" />
+  <circle
+     cx="156.07191"
+     cy="53.748001"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse509"
+     r="2" />
+  <text
+     x="495.96591"
+     y="98.480133"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="hanging"
+     id="text597">rotary encoder</text>
+  <text
+     x="278.08612"
+     y="159.8156"
+     style="font-size:12px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="hanging"
+     id="text701">photosensor</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="630.46613"
+     y="278.02255"
+     id="text1672"><tspan
+       sodipodi:role="line"
+       x="630.46613"
+       y="278.02255"
+       id="tspan3246"
+       style="font-size:24px;text-align:end;text-anchor:end">Treadmill Arduino</tspan><tspan
+       sodipodi:role="line"
+       x="630.46613"
+       y="308.02255"
+       id="tspan3248"
+       style="font-size:24px;text-align:end;text-anchor:end">Circuit</tspan></text>
+</svg>
